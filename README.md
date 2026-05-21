@@ -19,7 +19,7 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo Full Stack con Pyt
 - HTML / CSS
 - Git / GitHub
 - WordPress
-- PrestaShop
+- Shopify
 - Canva
 - Microsoft Office
 - Google Workspace
